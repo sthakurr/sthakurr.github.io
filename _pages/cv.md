@@ -11,23 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Chemistry, Indian Institute of Technology, Bombay, 2022-2023
+* B.S. in Chemistry, Indian Institute of Technology, Bombay, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* AI Architect, Accenture Japan
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern, Reid Lab, University of British Columbia
+  * Supervisor: [https://www.thereidlab.com/jolenereid](Jolene P. Reid)
 
-* Summer 2015: Research Assistant
+
+* Research Intern, Amaro Lab, University of Columbia, San Diego
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
