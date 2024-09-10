@@ -7,6 +7,6 @@ excerpt: 'The development of chiral catalysts that can provide high enantioselec
 date: 2023-06-02
 venue: 'Journal of the American Chemical Society'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'IO Betinol, J Lai, <b>S Thakur</b>, JP Reid. (2010). &quot;A data-driven workflow for assigning and predicting generality in asymmetric catalysis.&quot; <i>Journal of the American Chemical Society</i>. 1(2).'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.3c03989'
+citation: 'IO Betinol, J Lai, <b>S Thakur</b>, JP Reid. (2023). &quot;A data-driven workflow for assigning and predicting generality in asymmetric catalysis.&quot; <i>Journal of the American Chemical Society</i>. 145 (23), 12870-12883.'
 ---
