@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There. Welcome to my homepage!"
+title: "Hello There 🙋‍♀️ Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,4 @@ I am Saumya Thakur, currently working as an AI Architect at Accenture Japan. Bef
 
 Apart from the above, I have been living in Japan for almost an year now and I am responsible for the backend development and maintenance of an internal translation tool. I work with various Speech-to-text APIs and gained first-hand experience and uderstanding of the Software Development Cycle. I got to augment my technical skillset with various technologies including Cloud services (AWS in particular), Typescript programming, API integrations, and more. It provided me with an excellent opportunity to engage in a real-life software development and learn the production-grade programming practices. I also look forward to obtaining the cloud certification soon in the coming months. 
 
-However, currently, I am actively seeking PhD positions to forekick my career in the field of AI for Science and employ my knowledge from my past experiences to sme new exciting projects.
+<i>However, currently, I am actively seeking PhD positions to forekick my career in the field of AI for Science and employ my knowledge from my past experiences to sme new exciting projects.</i>
