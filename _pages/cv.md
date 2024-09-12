@@ -17,12 +17,13 @@ Education
 Work experience
 ======
 * AI Architect, Accenture Japan
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Responsible for the backend development of an internal transcription/translation tool for enhancing diversity in Accenture
+  * Working with various Speech-to-Text APIs including Google and Azure in a typescript/Vuetify based environment hosted on AWS
+  * Developing various features to improve the performance of the system using techniques like asynchronous programming and Lambda functions and to extend the supported languages, making it more widely available
 
 * Research Intern, Reid Lab, University of British Columbia
-  * Supervisor: [https://www.thereidlab.com/jolenereid](Jolene P. Reid)
+  _Supervisor: [https://www.thereidlab.com/jolenereid](Jolene P. Reid)_
+  * Developed a generality metric to assign 
 
 
 * Research Intern, Amaro Lab, University of Columbia, San Diego
