@@ -17,19 +17,24 @@ Education
 Work experience
 ======
 * AI Architect, Accenture Japan
+
+  _Strategy & Consulting, AI-Applied Intelligence Team_
   * Responsible for the backend development of an internal transcription/translation tool for enhancing diversity in Accenture
-  * Working with various Speech-to-Text APIs including Google and Azure in a typescript/Vuetify based environment hosted on AWS
+  * Working with various Speech-to-Text LLM APIs including Google and Azure in a typescript/Vuetify based environment hosted on AWS
   * Developing various features to improve the performance of the system using techniques like asynchronous programming and Lambda functions and to extend the supported languages, making it more widely available
 
 * Research Intern, Reid Lab, University of British Columbia
+
   _Supervisor: [https://www.thereidlab.com/jolenereid](Jolene P. Reid)_
-  * Developed a generality metric to assign 
+  * Developed a generality metric using a data-intensive pipeline to assign values to the candidate catalysts
+  * 
+  * Find the detailed report here: [MITACS_Generality.pdf](https://sthakurr.github.io/files/MITACS_Project_Report__Catalyst_Generality.pdf)
 
 
 * Research Intern, Amaro Lab, University of Columbia, San Diego
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+  _Supervisor: [https://amarolab.ucsd.edu/php/members/people.php](Rommie Amaro)_
+  * Worked with Variational Neural Networks to improve the sampling efficiency of Weighted Ensemble Simulations
   
 Skills
 ======
