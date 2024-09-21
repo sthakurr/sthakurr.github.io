@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find the full CV here: [Saumya_resume.pdf](https://sthakurr.github.io/files/Saumya_resume.pdf)
+
 Education
 ======
 * M.Sc. in Chemistry, Indian Institute of Technology, Bombay, 2022-2023
@@ -40,8 +42,6 @@ Work experience
 Skills
 ======
 * PyTorch (Python)
-* Linux
-* GitHub
 * DevOps
   * AWS
   * Docker
