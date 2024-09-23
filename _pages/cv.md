@@ -41,14 +41,22 @@ Work experience
   
 Skills
 ======
+* Generative Architectures
+  * Diffusion Models
+  * GAN
+  * VAE
 * PyTorch (Python)
+* Keras & Tensorflow
+* Cluster Computing
+* Linux & Git
 * DevOps
   * AWS
   * Docker
   * Jenkins
-* Javascript/Typescript
-* Enjoy resolving dependency issues :p
+* Javascript
+* RDKit 
 * Research
+* Enjoy resolving dependency issues :p
 
 Publications
 ======
